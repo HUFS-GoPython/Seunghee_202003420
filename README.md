@@ -3,3 +3,4 @@
 #### week 1. 아나콘타 설치 및 주피터 노트북 사용방법, 데이터 형태, 변수명 정하기, 할당하기
 #### week 2. 자료형 변환, input, print, numbers, if 
 #### week 3. 중첩 조건문, 논리 연산자, in, 바다코끼리 연산자, 문자열, 이스케이프 문자, 슬라이싱, NLTK
+#### week 4. 파이썬 내장함수, NLTK 내장함수, 리스트 컴프리헨션, cased / uncased, FreqDist, 반복문 
