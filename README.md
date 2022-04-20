@@ -6,3 +6,4 @@
 #### week 4. 파이썬 내장함수, NLTK 내장함수, 리스트 컴프리헨션, cased / uncased, FreqDist, 반복문 
 #### week 5. 반복문, 반복문의 제어, 구구단 문제, 출력 포맷, gutenberg, brown, 조건이 있는 fdist, 한번에 book 의 텍스트 전부 가져오기(getattr 사용)
 #### week 6. nltk inaugural, 튜플과 리스트
+#### week 7. 함수(인수와 반환값), 전역변수와 지역변수
